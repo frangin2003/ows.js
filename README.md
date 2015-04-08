@@ -115,7 +115,7 @@ Here some javascript code using a DrawFeature control (with a regular polygon ha
                         ows.getFeaturesByPolygon("http://your_sig_server/wms/", 
                         {
                             coords: parseFeatureGeometryFromEvent(map, layer, evt),
-                            typeNames: 'namespace:buildings',
+                            typeNames: 'yournamespace:buildings',
                             properties: ['id','name','height'],
                         }, 
                         function(features) {
