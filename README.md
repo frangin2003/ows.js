@@ -6,7 +6,7 @@ Ease OGC Web Services (OWS) calls with javascript (and some [JQuery]).
 
 ## Dependencies
 
-All [JQuery] with **$.extend** and **$.ajax** methods.
+All [JQuery] versions with **$.extend** and **$.ajax** methods.
 
 ## Installation
 
