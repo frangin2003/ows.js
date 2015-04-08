@@ -373,7 +373,7 @@ var ows = {
 
             default:
 
-                console.error("Unknow geométry '" + geom_type + "' type !");
+                console.error("Unknow geometry '" + geom_type + "' type !");
             break;
         }
 
